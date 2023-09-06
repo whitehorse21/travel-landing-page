@@ -1,7 +1,6 @@
 # Beaches.
 
 A ReactJS & Tailwind CSS Travel Website which I built to enhance using TailwindCSS with ReactJS.
-Inspired by [_Code Commerce_](https://www.youtube.com/watch?v=gXdHvoWvViQ)
 
 ## 🏁 Get Started
 
@@ -10,13 +9,13 @@ Inspired by [_Code Commerce_](https://www.youtube.com/watch?v=gXdHvoWvViQ)
 1. **_Clone the repository_**
 
 ```sh
-git clone https://github.com/YousefElshabrawy/Beaches.git
+git clone https://github.com/whitehorse21/travel-landing-page.git
 ```
 
 2. **_Navigate to repository directory_**
 
 ```sh
-$ cd Beaches
+$ cd travel-landing-page
 ```
 
 3. **_Install dependencies_**
@@ -43,17 +42,3 @@ $ npm run build
 
 - **ReactJS**
 - **TailwindCSS**
-
-## 🎥 Demo Video
-https://user-images.githubusercontent.com/62210671/188684953-6414d2f9-3c7c-436d-a874-9b66b5b78c79.mp4
-
-## 📷 Responsiveness
-
-- ### Desktop Screen
-  ![Desktop](ss/desktop.png)
-- ### Tablet Screen
-  <!-- ![Tablet](ss/tablet.png) -->
-  <img src='ss/tablet.png' width='700px'/>
-- ### Mobile Phone Screen
-  <!-- ![Mobile](ss/mobile.png) -->
-  <img src='ss/mobile.png' width='400px'/>
