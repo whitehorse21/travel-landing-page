@@ -16,7 +16,7 @@ const Search = () => {
           accusamus pariatur adipisci, culpa soluta veniam repellendus
           consequuntur cum debitis!
         </p>
-        <div className="flex flex-col sm:flex-row">
+        <div className="flex flex-col sm:flex-row gap-8 sm:gap-0">
           <div className="text-center">
             <h4 className="uppercase font-extrabold mb-2">leading service</h4>
             <p className="uppercase text-gray-600">
